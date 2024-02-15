@@ -1,0 +1,21 @@
+.spc{
+    margin-top: 57px;
+    margin-bottom: 60px;
+}
+.tm_login_col{
+    max-width: 470px;
+    
+}
+.tm_bg_primary_dark {
+    background-color: #435c70;padding: 40px;
+}
+.tm_block_title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.Errormessage{
+    color:red;
+}

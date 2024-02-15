@@ -1,0 +1,30 @@
+
+.tm_bg_primary_dark {
+    background-color: rgb(67, 92, 112);padding: 40px;
+    box-shadow: rgb(69, 92, 113) 1px 1px 5px 0px;margin-top: 57px;
+    margin-bottom: 60px;
+}
+.tm_block_title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    margin-bottom: 30px;
+}
+.tm_product_img_dummy {
+    max-width: 100%;
+    height: 240px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background: #aaa;
+   
+}
+.displaynone{ display: none;}
+.UploadProductImage{
+    width:100%;
+    z-index: 5;
+}
+.hideIcon{
+    display: none;
+}

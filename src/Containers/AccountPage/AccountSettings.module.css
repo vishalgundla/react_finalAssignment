@@ -1,0 +1,56 @@
+.tm_col_account_settings {
+    max-width: 822px;
+    width: 63%;
+    padding-left: 15px;
+    padding-right: 15px;margin-bottom: 30px;
+  }
+  .tm_bg_primary_dark {
+    background-color: #435c70;
+    padding: 40px;
+      -webkit-box-shadow: 1px 1px 5px 0 #455c71;
+      -moz-box-shadow: 1px 1px 5px 0 #455c71;
+      box-shadow: 1px 1px 5px 0 #455c71;
+      min-height: 350px;
+      height: 100%;
+  }
+  .tm_block_title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 30px;
+  }
+  .accountsettinglabel {
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  .accountsettingform_control {
+    padding: 19px 18px;
+    border-radius: 0;
+    height: 50px;background-color: #54657d;
+    color: #fff;
+    border: 0; width: 100%;
+  }
+  .btn_primary {
+    color: #fff;
+    background-color: #f5a623;
+    border: 2px solid #f5a623;
+    font-size: 90%;
+    font-weight: 600;
+    border-radius: 0;
+      padding: 13px 28px;
+      transition: all 0.2s ease;
+      display: block;
+      width: 100%;    text-transform: uppercase!important;
+  }
+  .btn_primary:active,
+  .btn_primary:hover {
+    color: #f5a623;
+    background-color: transparent;
+    border: 2px solid #f5a623;
+  }
+  @media (max-width: 767px) {
+    .tm_col_account_settings,
+    .tm_col_avatar {
+      width: 100%;
+      max-width: 100%;
+    }}

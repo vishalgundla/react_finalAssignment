@@ -1,0 +1,104 @@
+.tm_bg_primary_dark {
+  background-color: rgb(67, 92, 112);
+  padding: 40px;
+  box-shadow: rgb(69, 92, 113) 1px 1px 5px 0px;
+  min-height: 350px;
+  height: 100%;
+  min-height: 650px;
+  
+  
+}
+.tm_product_table_container {
+  max-height: 465px;
+  margin-bottom: 15px;
+  overflow-y: scroll;
+}
+.tm_product_delete_link {
+  padding: 10px;
+  border-radius: 50%;
+  background-color: rgb(57, 78, 100);
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  
+}
+.tm_product_delete_icon {
+  font-size: 1.1rem;
+  color: rgb(255, 255, 255);
+}
+.table {
+  background-color: rgb(80, 105, 127);
+  
+  color: rgb(255, 255, 255);
+  font-size: 85%;
+  margin-bottom: 0px;
+  
+}
+tr {
+  transition: all 0.2s ease;
+}
+tr:hover {
+  color: #a0c0de;
+}
+
+.tdspc
+{
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.thspc
+{
+ padding: 15px;
+  vertical-align: middle;
+}
+.thead {    border: 1px solid rgb(65, 90, 112);
+  background-color: rgb(72, 97, 119);
+  color: rgb(255, 255, 255);
+   border-collapse: collapse;
+   
+}
+.tbody {    border: 1px solid rgb(72, 97, 119);
+  background-color: rgb(72, 97, 119);
+  color: rgb(255, 255, 255);
+  
+}
+
+.btn_primary {
+  color: #fff;
+  background-color: #f5a623;
+  border: 2px solid #f5a623;
+  font-size: 90%;
+  font-weight: 600;
+  border-radius: 0;
+    padding: 13px 28px;
+    transition: all 0.2s ease;
+    display: block;
+    width: 100%;    text-transform: uppercase!important; margin-bottom: 20px;text-align: center;
+}
+.btn_primary:active,
+.btn_primary:hover {
+  color: #f5a623;
+  background-color: transparent;
+  border: 2px solid #f5a623;
+}
+.tm_block_title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  margin-bottom: 30px;
+}
+.tm_product_table_container {
+  max-height: 465px;
+  margin-bottom: 15px;
+  overflow-y: scroll;
+}
+table tbody .thead{
+  /* background-color: rgb(67,92,112); */
+  background-color: rgb(72,97,119);
+  /* background-color: transparent; */
+}
+tr{
+  background-color: rgb(72,97,119);
+  border: 1px solid rgb(72,97,119)
+}

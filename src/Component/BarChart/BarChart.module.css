@@ -1,0 +1,13 @@
+.tm_bg_primary_dark {
+    background-color: #435c70;
+    padding: 20px 20px 10px 20px;
+    -webkit-box-shadow: 1px 1px 5px 0 #455c71;
+    -moz-box-shadow: 1px 1px 5px 0 #455c71;
+    box-shadow: 1px 1px 5px 0 #455c71;
+    height: 100%;
+    
+}
+.latest{
+    color: #fff; text-align: left; font-size: 20px;
+    font-weight: 700;
+}

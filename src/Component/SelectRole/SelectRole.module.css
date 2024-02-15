@@ -1,0 +1,140 @@
+.MainContainer{
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* display: flex; */
+      /* -ms-flex-wrap: wrap; */
+      flex-wrap: wrap;
+  }
+  
+  .AccountSection{
+    margin-top: 3rem!important;
+  }
+  .AccountSelection{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    background-color: #435c70;
+  }
+  .AccountColumnFlex{
+    margin-bottom: 30px;
+  }
+  .AccountTitle{
+    font-size: 1.1rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 30px;
+      padding-top:20px;
+      padding-left:20px;
+  }
+  .AccountText{
+    color: #fff!important;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      text-align: left;
+      padding-left:20px;
+      
+  }
+  .CustomSelect{
+    height: 50px;
+      border-radius: 0;
+      width: 95.5%;
+      border: none;
+      color: #acc6de;
+      appearance: none;
+      padding: 15px;
+     margin-bottom: 30px;
+      border:0;
+  
+      padding-left:40px;
+      display: inline-block;
+      outline: none;
+      transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+      /* vertical-align: middle; */
+      background: url("https://templatemo.com/templates/templatemo_524_product_admin/img/arrow-down.png") 98% no-repeat #50657b;
+  }
+  .Option{
+  height:100px;
+    appearance: none;
+    box-sizing: border-box;
+    /* font-weight: normal; */
+      display: inline-block;
+      white-space: pre;
+      padding: 15px 15px 15px;
+      /* padding: 35px; */
+      line-height: 1.5;
+      transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    
+  }
+
+
+
+  
+  
+  .AccountSection{
+    margin-top: 3rem!important;
+  }
+ 
+  .CustomSelect{
+    height: 50px;
+      border-radius: 0;
+      width: 95.5%;
+      border: none;
+      color: #acc6de;
+      appearance: none;
+      padding: 15px;
+     margin-bottom: 30px;
+      border:0;
+  
+      padding-left:40px;
+      display: inline-block;
+      outline: none;
+      transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+      /* vertical-align: middle; */
+      background: url("https://templatemo.com/templates/templatemo_524_product_admin/img/arrow-down.png") 98% no-repeat #50657b;
+  }
+  .Option{
+  height:100px;
+    appearance: none;
+    box-sizing: border-box;
+    /* font-weight: normal; */
+      display: inline-block;
+      white-space: pre;
+      padding: 15px 15px 15px;
+      /* padding: 35px; */
+      line-height: 1.5;
+      transition: background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    
+  }
+  .RowProfileAccount{
+    margin-left:50px;
+    margin-right:50px;
+    display: flex;
+  }
+  .ProfilePic{
+    max-width: 425px;
+    width: 37%;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #435c70;
+    padding: 40px;
+      -webkit-box-shadow: 1px 1px 5px 0 #455c71;
+      -moz-box-shadow: 1px 1px 5px 0 #455c71;
+      box-shadow: 1px 1px 5px 0 #455c71;
+      min-height: 350px;
+  }
+
+ 
+ 
+  
+  .RightContainerSettings{
+    width:60%;
+  }
+  
